@@ -1,0 +1,17 @@
+{
+  "name": "@roblazcdmx/challenge2",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "GuidedInquiry-Node.jsWeek2"
+  },
+  "description": "README.md"
+}
