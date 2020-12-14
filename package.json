@@ -1,0 +1,23 @@
+{
+  "name": "guidedinquirynodejsweek2",
+  "version": "1.0.0",
+  "description": "NodeWeek2",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobLazCDMX/GuidedInquiry-Node.jsWeek2.git"
+  },
+  "author": "Roberto Lazcano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobLazCDMX/GuidedInquiry-Node.jsWeek2/issues"
+  },
+  "homepage": "https://github.com/RobLazCDMX/GuidedInquiry-Node.jsWeek2#readme"
+}

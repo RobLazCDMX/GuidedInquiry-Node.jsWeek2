@@ -1,0 +1,65 @@
+
+{
+    "employees":[
+        {
+            "id":1,
+            "name": "John Lee",
+            "salary": 78000,
+            "department": "Tech"
+        },
+        {
+            "id":2,
+            "name": "Lee Ragsdale",
+            "salary": 90000,
+            "department": "Admin"
+        },
+        {
+            "id":3,
+            "name": "Tony Gomar",
+            "salary": 65000,
+            "department": "Education"
+        },
+        {
+            "id":4,
+            "name": "Gloria Estefan",
+            "salary": 54000,
+            "department": "Admin"
+        },
+        {
+            "id":5,
+            "name": "Reggie James",
+            "salary": 95000,
+            "department": "Tech"
+        },
+        {
+            "id":6,
+            "name": "Anna Munoz",
+            "salary": 90000,
+            "department": "Education"
+        },
+        {
+            "id":7,
+            "name": "Wendy Vigo",
+            "salary": 108000,
+            "department": "Education"
+        },
+        {
+            "id":8,
+            "name": "Chandler Hill",
+            "salary": 120000,
+            "department": "Tech"
+        },
+        {
+            "id":9,
+            "name": "Ximena Fuentes",
+            "salary": 290000,
+            "department": "Tech"
+        },
+        {
+            "id":10,
+            "name": "Bruce Lee",
+            "salary": 58000,
+            "department": "Admin"
+        }    
+    ]
+}
